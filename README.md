@@ -31,7 +31,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | developer            |                     | programista                           |
 | edge case            |                     | przypadek brzegowy                    |
 | event                |                     | zdarzenie, wydarzenie                 |
-| expire               | wyekspajerować      | wygasić                               |
+| expire               | wyekspajerować      | wygasić, przeterminować się           |
 | extend               | ekstendować         | rozszerzać                            |
 | feature              | ficzer              | funkcja                               |
 | feedback             |                     | informacja zwrotna                    |
@@ -65,7 +65,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | property             |                     | właściwość, opcja, cecha              |
 | random               | randomowy           | losowy, przypadkowy                   |
 | release (_n_)        |                     | wydanie, wersja                       |
-| release (_v_)        | rilisować           | wydawać nową wersję                   |
+| release (_v_)        | rilisować           | wydawać                               |
 | request              |                     | żądanie                               |
 | research             |                     | zbadać                                |
 | resource             |                     | zasób                                 |
@@ -79,15 +79,17 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | set (_n_)            |                     | zbiór                                 |
 | set (_v_)            | setować             | ustawiać                              |
 | setup (_n_)          |                     | konfiguracja                          |
-| setup (_v_)          | zsetapować          | zestawić                              |
-| support              | saportować          | wspierać                              |
+| setup (_v_)          | zsetapować          | zestawić, zainstalować                |
+| support (_n_)        |                     | pomoc, wsparcie                       |
+| support (_v_)        | saportować          | wspierać                              |
 | task                 |                     | zadanie                               |
 | team                 |                     | zespół                                |
 | template             | templatka           | szablon                               |
 | threshold            |                     | próg, poziom                          |
 | ticket               |                     | zadanie                               |
 | toggle               | togel               | przełącznik                           |
-| update               | apdejtować          | aktualizować                          |
+| update (_n_)         | apdejt              | aktualizacja                          |
+| update (_v_)         | apdejtować          | aktualizować                          |
 | usability            |                     | użyteczność                           |
 | use case             |                     | przypadek użycia                      |
 | user                 |                     | użytkownik                            |
